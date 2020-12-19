@@ -2,9 +2,9 @@
 This program will create a random Message
 
 ## Technologies
-Javascript
-Node.js
-VS Code
+* Javascript
+* Node.js
+* VS Code
 
 ## Launch
 As soon as i finish the program
