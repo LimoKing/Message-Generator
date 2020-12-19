@@ -7,9 +7,9 @@ This program will create a random Message
 * VS Code
 
 ## Launch
-Once you have Node.js installed and setup, run the following command in your terminal that's pointing to the folder containing main.js
+Once you have Node.js installed and setup, run the following command in your terminal that's pointing to the folder containing script.js
 
-...\project-directory> node main.js
+...\project-directory> node script.js
 
 ## Examples
 I do not know just run the program and good luck
